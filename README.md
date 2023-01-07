@@ -4,7 +4,7 @@ Hi 👋 I'm Peter Morganelli
 Software Developer
 -------------
 
-I'm a Software developer in MERN.
+I'm a Full Stack Software Developer who specializes in MERN.
 
 * 🌍  I'm based in Lee near Portsmouth, NH
 * ✉️  You can contact me at [peter.morganelli@gmail.com](mailto:peter.morganelli@gmail.com)
